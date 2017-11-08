@@ -4,6 +4,6 @@ steps:
   - name: Probo site setup
     plugin: LAMPApp
     database: mydb.sql.gz
-    databaseName: mydb
-    databaseUser: mydbuser
+    databaseName: probo_test
+    databaseUser: probo_user
     databaseGzipped: true
