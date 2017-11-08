@@ -1,6 +1,5 @@
 assets:
   - mydb.sql.gz
-  bucket: tombo
 steps:
   - name: Probo site setup
     plugin: LAMPApp
